@@ -17,4 +17,4 @@ This project extracts data from a webpage listing the largest banks by market ca
 - Logging: Progress and error messages are logged to code_log.txt.
 
   #
-  Thank you !
+  Thank you!
